@@ -1,0 +1,9 @@
+1. Agrega los cambios al área de preparación (staging):
+git add .
+
+2. Haz un commit con un mensaje:
+git commit -m "Descripción de los cambios"
+
+3. Sube los cambios a GitHub (push):
+git push origin main
+
